@@ -8,22 +8,22 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
-| | @ | Backend lead | | |
-| | @ | Frontend lead | | |
-| | @ | Quality and DevOps lead | | |
+|Aiman Kashem Noirit | @AimanNoirit | Team lead / Scrum master |Previously led groups for university and college projects, expertise on JavaScript, HTML, CSS, Jira, Figma, DBMS |Want to gain leadership qualities under industry level projects, Git and Github. |
+|Ahmed Naj Saif Sugrib | @3xotic3 | Backend lead |Databases, APIs, and logic are what make an app actually work, and that's where I want to build. |From backend development, I want to learn how to build secure, scalable systems, from designing databases and APIs to deploying real applications. |
+|ABU HENAF RASHID AHMAD MUFTI | @Areshi001 | Frontend lead |HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Responsive Design, CSS Grid, Figma, Git, GitHub, Vercel. |Want to learn software architecture and backend. |
+|Nafisa Tasfiah | @nafisanaisa | Quality and DevOps lead |Analytical thinking, Identifying and solving problem |Software testing, automation testing, Git/GitHub |
 
 ## Communication
 
-- Main channel (e.g., a Messenger or Discord group): …
-- We reply to teammates within: … hours on weekdays
+- Main channel (e.g., a Messenger or Discord group): Whatsapp group, Discord Server
+- We reply to teammates within: 1-1.5 hours on weekdays
 - Decisions are recorded in: Jira comments, pull requests or ADRs (not only in chat)
 - Help from the instructor: through GitHub **Help request** issues
 
 ## Meeting rhythm
 
-- Weekly planning: day and time …, about 30 minutes, online or in person
-- Short check-ins: … (e.g., Monday and Thursday, 10 minutes)
+- Weekly planning: Saturday,Tuesday(🕧),Thurday(🕙),Friday(🕙), about 30 minutes, online or in person
+- Short check-ins: … (Monday,Thursday,Friday, 10 minutes)
 - Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)
 
 ## Definition of Done
@@ -53,7 +53,11 @@ Within the course policy:
 - Every member can explain every line they submit; anything you cannot explain is rewritten.
 - Never paste secrets, keys or personal data into an AI tool.
 
-Our extra rules: …
+Our extra rules: 
+1. In case of any emergency a member must inform the team about their situation and how long he/she will be out of reach.
+2. If a member struggles with his/her task, he/she must not shy away from it and ask for help from the team members.
+3. No issues can't be directly discussed with the instruction without discussing with the team first.
+4. If difficulties appear, team members should face the burden with condescension.
 
 ## Signatures
 
